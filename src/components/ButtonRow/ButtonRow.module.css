@@ -1,0 +1,8 @@
+.buttonRow {
+  min-width: max-content;
+}
+
+.overflowWrapper {
+  min-height: 75px;
+  overflow-x: scroll;
+}
